@@ -1,0 +1,24 @@
+# LangChain Core & Ecosystem
+langchain
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+langchain-huggingface
+langchain-groq
+
+# Models & APIs
+openai
+google-generativeai
+transformers
+groq
+huggingface-hub
+
+# Utilities & Data Science
+python-dotenv
+numpy
+scikit-learn
+grandalf
+
+# UI Framework
+streamlit
+

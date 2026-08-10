@@ -1,0 +1,44 @@
+Hi friends! 👋
+
+I am excited to share that I am officially starting an intensive journey into Generative AI!
+
+Whether you are a beginner looking to understand AI or a developer eager to build cool projects, I’m inviting you to join me on this path. Every day, I’ll be sharing my learnings, key concepts, hands-on Python code, and practical projects directly on my profile so we can learn and grow together.
+
+Here is the exact 2-Phase Learning Roadmap we will be covering:
+
+🎯 Phase 1: The User’s Perspective (Application Development)
+In this phase, we focus on leveraging existing models to build powerful AI applications.
+
+Building Basic LLM Apps (Open Source vs. Closed Source LLMs, LLM APIs, LangChain, HuggingFace, Ollama)
+
+Prompt Engineering
+
+Retrieval-Augmented Generation (RAG)
+
+Fine-Tuning Applications
+
+AI Agents
+
+LLMOps & Production Deployment
+
+🏗️ Phase 2: The Builder’s Perspective (Model Architecture & Systems)
+In this phase, we dive under the hood to understand how LLMs are actually built from scratch.
+
+Transformer Architecture Deep Dive
+
+Types of Transformers (Encoder-Only BERT, Decoder-Only GPT, Encoder-Decoder T5)
+
+Pretraining Systems (Objectives, Tokenization, & Scaling Strategies)
+
+Fine-Tuning & Alignment (Instruction Tuning, PEFT/LoRA, RLHF)
+
+Optimization Techniques (Model Compression, Quantization, & Inference Speedups)
+
+Evaluation & Deployment Pipelines
+
+💡 What’s Next?
+We are starting Phase 1 with LangChain! Stay tuned for daily code breakdowns, tutorials, and practical insights.
+
+Drop a comment if you are also learning AI, and let's connect! 🤝🔥
+
+#GenerativeAI #LangChain #MachineLearning #DeepLearning #Python #AICommunity #100DaysOfCode #TechLearning
