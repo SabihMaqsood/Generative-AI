@@ -1,7 +1,7 @@
 import os
 from langchain_huggingface import ChatHuggingFace, HuggingFacePipeline
 
-os.environ['HF_HOME'] = 'D:/huggingface_cache'
+os.environ.setdefault('HF_HOME', os.path.join(os.path.expanduser('~'), '.cache', 'huggingface'))
 
 llm = HuggingFacePipeline.from_model_id(
     model_id='TinyLlama/TinyLlama-1.1B-Chat-v1.0',
