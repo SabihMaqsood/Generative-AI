@@ -3,4 +3,4 @@ __pycache__/
 *.pyc
 venv/
 .venv/
-code_push/
+code_push.txt
