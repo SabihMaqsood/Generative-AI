@@ -1,0 +1,16 @@
+StudentID,StudentName,Department,Topic,Score,StudyHours,Status
+1,Ali Raza,Computer Science,Python,85,4.5,Completed
+2,Sara Khan,Software Engineering,LangChain,92,5.0,Completed
+3,Ahmed Hassan,Computer Science,Pandas,78,3.5,In Progress
+4,Ayesha Malik,Data Science,Machine Learning,88,4.0,Completed
+5,Hamza Tariq,Artificial Intelligence,LangChain,95,5.5,Completed
+6,Maham Noor,Computer Science,Python,81,4.0,In Progress
+7,Usman Ali,Software Engineering,SQL,74,3.0,Not Started
+8,Hira Shah,Data Science,Pandas,90,5.0,Completed
+9,Bilal Ahmed,Artificial Intelligence,RAG,87,4.5,In Progress
+10,Zainab Fatima,Computer Science,NLP,93,5.0,Completed
+11,Danish Iqbal,Software Engineering,APIs,76,3.5,In Progress
+12,Maryam Aslam,Data Science,Python,89,4.5,Completed
+13,Saad Khan,Artificial Intelligence,Embeddings,91,5.0,Completed
+14,Eman Zahid,Computer Science,Vector Database,84,4.0,In Progress
+15,Owais Akram,Software Engineering,GitHub,79,3.5,Completed

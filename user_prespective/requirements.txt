@@ -6,6 +6,7 @@ langchain-google-genai
 langchain-huggingface
 langchain-groq
 langchain-classic
+langchain-community
 
 # Models & APIs
 openai
@@ -23,3 +24,8 @@ grandalf
 # UI Framework
 streamlit
 
+#docs loaders
+
+pypdf
+bs4
+pandas

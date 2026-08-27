@@ -1,0 +1,1 @@
+LangChain simplifies the process of building LLM-powered applications using modular components.

@@ -1,0 +1,62 @@
+LangChain Document Loader Practice
+
+Welcome to LangChain Document Loader practice.
+
+1. LangChain
+LangChain is a framework for building applications powered by language models.
+Document loaders are used to load data from different sources into LangChain Document objects.
+
+2. What is a Document?
+A LangChain Document normally contains:
+- page_content: the actual text
+- metadata: information about the source, file, page, or other details
+
+3. TextLoader Practice
+TextLoader is used to load plain text files into LangChain.
+
+Practice:
+- Load this file using TextLoader.
+- Print the loaded documents.
+- Print page_content.
+- Print metadata.
+- Check the number of documents returned.
+
+4. Example Student Data
+Student Name: Ali Raza
+Department: Computer Science
+Topic: Python
+Score: 85
+
+Student Name: Sara Khan
+Department: Software Engineering
+Topic: LangChain
+Score: 92
+
+Student Name: Ahmed Hassan
+Department: Computer Science
+Topic: Pandas
+Score: 78
+
+Student Name: Ayesha Malik
+Department: Data Science
+Topic: Machine Learning
+Score: 88
+
+5. Practice Exercises
+Exercise A: Load this TXT file using TextLoader.
+Exercise B: Print the first document.
+Exercise C: Print page_content only.
+Exercise D: Print metadata.
+Exercise E: Use RecursiveCharacterTextSplitter to split the text.
+Exercise F: Print the chunks and their metadata.
+Exercise G: Create embeddings from the chunks.
+
+6. Other LangChain Loaders
+After practicing TextLoader, try:
+- PyPDFLoader for PDF files
+- CSVLoader for CSV files
+- JSONLoader for JSON files
+- Docx2txtLoader for DOCX files
+- WebBaseLoader for web pages
+
+Keep practicing different loaders so you understand how different data sources are converted into LangChain Documents.
